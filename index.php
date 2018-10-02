@@ -36,5 +36,4 @@ echo $table. PHP_EOL;
 
 echo "Termine:". PHP_EOL;
 
-echo "Block 13 (03.09.2018 - 07.09.2018 & 10.09.2018 - 14.09.2018)". PHP_EOL;
 echo "Block 14 (05.11.2018 - 09.11.2018 & 12.11.2018 - 16.11.2018)". PHP_EOL;
